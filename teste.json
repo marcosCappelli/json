@@ -1,0 +1,16 @@
+[
+	{
+		"nome": "Marcos",
+		"idade": 55,
+		"esta_trabalhando": true,
+		"detalhes_profissão": {
+			"profissão": "programador",
+			"empresa": "Art 3D"
+		},
+		"hobbies": [
+			"pescar",
+			"pedalar",
+			"programar"
+		]
+	}
+]
